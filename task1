@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style1.css">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
+
+    
+</head>
+<body>
+    <div class="container" style="background-color: green;">
+            
+                <h1 > Technologies Overview</h1>
+           
+                    <p >Learn about differnt Technologies   in the world of web development</p>    
+    </div>
+    <div class="container">
+        <U>
+            <h1 ><a href="aboutHtml.html" target="_blank" >HTML</a></h1>
+        </U>
+        <i class="fa-brands fa-html5" ></i>
+        
+        <P >HTML is the foundation of any website . It defined the structure and layout of a webpage.</P>
+        
+    </div>
+    <div class="container">
+        <U>
+            <h1 ><a href="css.html" target="_blank" >CSS</a></h1>
+        </U>
+        <P  >CSS is used to adding colors , fonts , and layouts to make them visually appearing .</P>
+        
+    </div>
+</div>
+<div class="container">
+    <U>
+        <h1 ><a href="javascipt.html" target="_blank" >HTML</a></h1>
+    </U>
+    <P  >JavaScript adds interactivity to web pages , making them dynamic and user - frindly .</P>
+    
+</div>
+<button><a href="css.html">Next Page</a></button>
+</body>
+</html>
